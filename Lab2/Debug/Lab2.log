@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Rane\Documents\College\Computer Graphics\Code\Lab 2\Lab2\Lab2\main.cpp(273,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Rane\Documents\College\Computer Graphics\Code\Lab 2\Lab2\Lab2\main.cpp(275,19): warning C4305: '-=': truncation from 'double' to 'float'
+  Lab2.vcxproj -> C:\Users\Rane\Documents\College\Computer Graphics\Code\Lab 2\Lab2\Debug\Lab2.exe
